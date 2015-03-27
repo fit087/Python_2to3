@@ -1,0 +1,1 @@
+py -3 -i C:/python34/Tools/scripts/2to3.py -w 2.py
